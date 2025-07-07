@@ -22,8 +22,6 @@
 
 <img align="right" alt="Minecraft Vibes" width="290" style="border-radius:18px; box-shadow: 0 8px 32px #ffb6b99f;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhncjI1bDl0M3hobmtiNmFwZGx3Zmw2bXEyeHVjeDI0a3BpZTcweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif">
 
-> 🌷 In rhythm and code, I find my voice.  
-> 🍃 I love building delightful tools that blend logic and creativity!
 
 - 🔭 **Currently:** Building the Redbrick Webapp — reimagining the platform to deliver a faster, cleaner, and more community-driven experience.
 - 🌱 **Learning:** Diving deeper into UI/UX strategy, sharpening skills in the MERN stack — building with focus, growing with direction.
@@ -33,7 +31,7 @@
 
 ---
 
-## 💖 Tech & Tools
+## 🛠️  Tech & Tools
 
 ### Languages
 <p align="left">
