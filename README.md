@@ -20,7 +20,7 @@
 
 ## 🌸 About Me
 
-<img align="right" alt="Cute Cat Coding" width="290" style="border-radius:18px; box-shadow: 0 8px 32px #ffb6b99f;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d3ZXd5YXh0YXRwM2M4bW5vOXMyMGFjcHZwZzBxYmQxZ2l5M3I2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+<img align="right" alt="Minecraft Vibes" width="290" style="border-radius:18px; box-shadow: 0 8px 32px #ffb6b99f;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhncjI1bDl0M3hobmtiNmFwZGx3Zmw2bXEyeHVjeDI0a3BpZTcweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif">
 
 > 🌷 In rhythm and code, I find my voice.  
 > 🍃 I love building delightful tools that blend logic and creativity!
